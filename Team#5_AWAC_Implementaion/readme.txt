@@ -1,4 +1,4 @@
-####SYSTEM SETUP, DATA SET & TRAINING
+## SYSTEM SETUP, DATA SET & TRAINING
 
 System Setup:
 Part 1: Setting up MuJoCo (Physics simulator) for RL by installing mjrl(https://github.com/aravindr93/mjrl/tree/master/setup)
